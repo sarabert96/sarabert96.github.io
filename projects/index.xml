@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://sarabert96.github.io/projects/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Mar 2020 01:11:42 +0100</lastBuildDate>
+    
+	<atom:link href="https://sarabert96.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I created a website!</title>
+      <link>https://sarabert96.github.io/projects/website/</link>
+      <pubDate>Wed, 11 Mar 2020 01:11:42 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/website/</guid>
+      <description>At the beginning of 2020, the CoronaVirus pandemia created a state of fear and illness all over the world. In Italy, the government decided to set a quarantine for the whole population trying to limitate the spread of the virus. That&amp;rsquo;s how I ended up with free time I didn&amp;rsquo;t imagine to have and no possibility to go out of my home. I started to wonder&amp;hellip;what if I did a website?</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization applied to humanities</title>
+      <link>https://sarabert96.github.io/projects/datavisualization/</link>
+      <pubDate>Thu, 13 Feb 2020 00:37:20 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/datavisualization/</guid>
+      <description>I took inspiration from Matteo Bonera&amp;rsquo;s speech regarding Data Visualization as a way to access Da Vinci&amp;rsquo;s work &amp;ldquo;Codice Atlantico&amp;rdquo; (website here), to examine how Data Visualization is widely used nowadays and how it can be used in non-mathematic fields.
+In the age of digitisation, data has become copious and cheap; but the big companies that have a lot of data are the new economical giants. Why is that? Data, if managed, become information, and information is richness since knowing that, future can change.</description>
+    </item>
+    
+    <item>
+      <title>Null subject comparison in Portuguese varieties and Italian</title>
+      <link>https://sarabert96.github.io/projects/nullsubjectpt/</link>
+      <pubDate>Mon, 11 Jun 2018 01:11:42 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/nullsubjectpt/</guid>
+      <description>In this work, the European, Brazilian, Cape Verdean varieties of Portuguese were studied in comparison between them and with Italian, with a focus on the null subject parameter (NSP).
+Beside the big number of studies on the latter, its nature is not completely clear, as so for concurrent properties and activation factors.
+The work is therefore a paper to study the micro variation over proximate languages.
+ The generative theory base itself in the idea of a Universal Grammar (UG) thanks to children are able to learn languages.</description>
+    </item>
+    
+  </channel>
+</rss>
