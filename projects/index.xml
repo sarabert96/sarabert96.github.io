@@ -31,6 +31,26 @@ In the age of digitisation, data has become copious and cheap; but the big compa
     </item>
     
     <item>
+      <title>Data Mining project: Carvana</title>
+      <link>https://sarabert96.github.io/projects/datamining/</link>
+      <pubDate>Mon, 13 Jan 2020 00:37:20 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/datamining/</guid>
+      <description>The project, developed with Valerio Bonsignori and Federica Currao, is the product of Data Mining course at University of Pisa.
+The data under investigation come from Carvana&amp;rsquo;s resale&amp;rsquo;s cars process and describe the characteristics of each vehicle bought at auction by the dealer. The goal is to predict whether the car purchased is or not a bad buy to decrease Carvana&amp;rsquo;s loss. This last information is directly defined with a binary feature in the training dataset and therefore it&amp;rsquo;s part of the process evaluate and understand which features are the most discriminating in the choice.</description>
+    </item>
+    
+    <item>
+      <title>TED Talk Analysis</title>
+      <link>https://sarabert96.github.io/projects/tedtalk/</link>
+      <pubDate>Fri, 13 Dec 2019 00:37:20 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/tedtalk/</guid>
+      <description>The project was developed with Pouria Faraji, Selam Mulatu and Thizirie Ould Amer.
+It regards the analysis of two TED Talks datasets, aiming to detect the characteristics of the most popular talks to produce a recommendation system. To do this, we created a model capable of predicting video popularity prior to its publication, helping us understand what factors contribute to its success. The main dataset contains general details about the talks and the speakers, while the second one consists of the transcripts of the talks.</description>
+    </item>
+    
+    <item>
       <title>Null subject comparison in Portuguese varieties and Italian</title>
       <link>https://sarabert96.github.io/projects/nullsubjectpt/</link>
       <pubDate>Mon, 11 Jun 2018 01:11:42 +0100</pubDate>
