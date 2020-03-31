@@ -36,7 +36,7 @@ In the age of digitisation, data has become copious and cheap; but the big compa
       <pubDate>Mon, 13 Jan 2020 00:37:20 +0100</pubDate>
       
       <guid>https://sarabert96.github.io/projects/datamining/</guid>
-      <description>The project, developed with Valerio Bonsignori and Federica Currao, is the product of Data Mining course at University of Pisa.
+      <description>The project, codeveloped with Valerio Bonsignori and Federica Currao, is the product of Data Mining course at University of Pisa.
 The data under investigation come from Carvana&amp;rsquo;s resale&amp;rsquo;s cars process and describe the characteristics of each vehicle bought at auction by the dealer. The goal is to predict whether the car purchased is or not a bad buy to decrease Carvana&amp;rsquo;s loss. This last information is directly defined with a binary feature in the training dataset and therefore it&amp;rsquo;s part of the process evaluate and understand which features are the most discriminating in the choice.</description>
     </item>
     
@@ -68,8 +68,8 @@ The work is therefore a paper to study the micro variation over proximate langua
       <pubDate>Sat, 13 Jan 2018 00:37:20 +0100</pubDate>
       
       <guid>https://sarabert96.github.io/projects/introductioncl/</guid>
-      <description>WORK IN PROGRESS  The paper was written for the course &amp;ldquo;Applied Linguistics&amp;rdquo; in my Language, Civilisation and the Science of Language Bachelor at Ca&amp;rsquo; Foscari University of Venice.
-View paper ITALIAN: pdf</description>
+      <description>The ambition to create artificial beings, able to act as humans do, has always been in our fantasy. Computer Science is defined as the discipline that deals with the collection and process of information (De Mauro, 2000), and since linguistics handle the analysis and study of the most powerful tool humans have to express information (i. e. language), their combination was unavoidable.
+The possibility to build machines able to produce language is based on the existence of a model, that can either be different from the one used by humans or can shed a light on it.</description>
     </item>
     
   </channel>

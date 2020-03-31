@@ -36,8 +36,8 @@
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Introduction to Computational Linguistics"/>
-<meta name="twitter:description" content="WORK IN PROGRESS  The paper was written for the course &ldquo;Applied Linguistics&rdquo; in my Language, Civilisation and the Science of Language Bachelor at Ca&rsquo; Foscari University of Venice.
-View paper ITALIAN: pdf"/>
+<meta name="twitter:description" content="The ambition to create artificial beings, able to act as humans do, has always been in our fantasy. Computer Science is defined as the discipline that deals with the collection and process of information (De Mauro, 2000), and since linguistics handle the analysis and study of the most powerful tool humans have to express information (i. e. language), their combination was unavoidable.
+The possibility to build machines able to produce language is based on the existence of a model, that can either be different from the one used by humans or can shed a light on it."/>
 
   <script type="application/ld+json">
 {
@@ -56,7 +56,7 @@ View paper ITALIAN: pdf"/>
   },
   "genre": "projects",
   
-  "wordcount":  32 ,
+  "wordcount":  1134 ,
   "url": "https:\/\/sarabert96.github.io\/projects\/introductioncl\/",
   "datePublished": "2018-01-13T00:37:20\x2b01:00",
   "dateModified": "2018-01-13T00:37:20\x2b01:00",
@@ -147,12 +147,14 @@ View paper ITALIAN: pdf"/>
                   · 
                 
                 <i class="iconfont icon-timer"></i>
-                1 min
+                6 min
         </div>
     </header>
     <div class="post-content">
         
         
+            
+        
 
         
         
@@ -163,7 +165,36 @@ View paper ITALIAN: pdf"/>
           
           
           
-          <h3 id="work-in-progress">WORK IN PROGRESS</h3>
+          <p>The ambition to create artificial beings, able to act as humans do, has always been in our fantasy.
+Computer Science is defined as the discipline that deals with the collection and process of information (De Mauro, 2000), and since linguistics handle the analysis and study of the most powerful tool humans have to express information (i. e. language), their combination was unavoidable.</p>
+<p>The possibility to build machines able to produce language is based on the existence of a model, that can either be different from the one used by humans or can shed a light on it.</p>
+<p>There are two main approaches. The first define a linguistic rule as the description of a practice, i. e. a probabilistic and statistic tendency in the behavior. This is the so-called <strong>statistic-probabilistic model</strong>, largely based on data extracted from real texts and with the aim of imitation.</p>
+<p>Noam Chomsky, on the other side, proposes a rule-based approach based on a syntactic innate rule set, being part of the linguistic competence that we have as humans. This finite and abstract collection of rules would allow the formulation of an infinite well-formed set of sentences (Chomsky, 1957). This has been called <strong>rule-based model</strong>.</p>
+<p>At first sight, the rule-based approach looks the easiest one, given the finite number of rules to consider, but in the language system, there exist countless factors that may pose a problem. These factors are, for example, the infinite number of new sentences and words that are created, the existence of synonymy, polysemy, homonymy, multiword expressions, collocations, syntactic ambiguity, between the other. But let&rsquo;s not forget the metalinguistics and pragmatics roles, besides the main problem of identifying all the rules to implement, a harder job than expected!</p>
+<p>Chomsky is against the use of corpora, given the fact that they have a fixed size and are incomplete (a corpus will never list all the possible sentences of a language). For him, it will not allow us to do predictions on the grammaticality of sentences but would only give indications on the use frequency.
+From this point of view the <strong>Natural Language Processing (NLP)</strong> was born. Its goal is to allow the machine to produce well-formed sentences and to analyze them. NLP is splitted in understanding and generation. Natural Language Understanding aim to represent texts in a formal and unambiguous way, while Natural Language Generation deals with the construction of automata able to produce grammatical sentences.</p>
+<p>A <strong>corpus</strong> is a finite and ordinated collection of linguistic executions of one or more authors. The utility of a corpus is connected to the ease and rapidity in which we can access information, and the benefit using a digital format is therefore huge.</p>
+<p>An example of corpus is <strong>CHILDES</strong> (CHild Language Data Exchange System). It is one of the most complete and common tool in the children speech sector. Built in 1984, it is the first attempt to make public and available the empirical data of single researchers. It is an important shortcut in the study process, since a researcher can directly explore a linguistic phenomenon instead of spending time and effort in collecting data.
+In the linguistic acquisition field it is a fact that the sharing of data has more pros than cons. The question is no more whether to share, but how to share in the best way possible. The main problem that occurs is to develop a standard way to transcribe and analyze linguistic examples.</p>
+<p>If the web could be a corpus is a tricky question, considering its pitfalls: the pages are duplicated and dynamic, it doesn&rsquo;t represent every variety of language, it contains a lot of errors, and so on. But it&rsquo;s nevertheless a rich bank to withdraw. A tool offered by Internet is <a href="https://books.google.com/ngrams"><strong>Google Books Ngram Viewer</strong></a>. It allows us to search the word inserted in the box in the linguistic corpus formed by Google Books. The analyzed books are dated between 1500 and 2008 and collect different languages. Its scientific validity is uncertain, but it is with no doubt a good starting point for following studies, as well as being playful and inspiring.</p>
+<p><img src="/images/introcl/1.png" alt="ngram1" title="Example1">
+<em>Fig. 1: Frequency of the word linguistics</em></p>
+<p><img src="/images/introcl/2.png" alt="ngram2" title="Example2">
+<em>Fig. 2: We can see the 10 most frequent principal verbs in sentences.</em></p>
+<p>The linguistics studies based upon corpora had a great development, especially with the progress of information technologies. Thanks to IT, it is possible to store huge quantity of texts, analyze them rapidly, modify them easily and put them available for everybody.
+The statistic-probabilistic approach reached a good robustness and gave the possibility to use the same mechanism independently from the language. Furthermore, a technique that look at the word in context is able to solve the aforementioned problems that arose in the rule-based model consideration. These features allowed it to become the chosen paradigm.</p>
+<p>A new approach arose: the <strong>Statistical Natural Language Processing</strong>, in which grammatical rules are joined with statistics.
+For example, Google Translate, launched in 2006 as a statistical automatic translation (Och, 2006), in September 2016 changed approach using Google Neural Machine Translation, that translates whole sentences and is based on a self-learning system (Turovsky, 2016); strengthening the idea that a word is understood in the context, instead than as a single unit.</p>
+<p>A list of possible application in which computational linguistics can apply is almost superfluous. Automatic translation, spell checking, vocal assistants, text-to-speech tools, best information retrieval results, and so on. If some of this application may look unnecessary for some of us, they become very important for all of those who may have disabilities as deafness or blindness.</p>
+<p>The combination between a rule-based and a statistical way, may be the best solution and perhaps the mechanism also we use as human. In many situations in fact, we use statistic and frequency techniques. For instance, the distinction of different languages since just few days of life (Guasti, 2007), the distinction between different words through an analysis of the spoken flow, the fact that a small set of words make up the majority of texts and, of course, all those situations in which the context helps us in understanding the meaning.</p>
+<p>Concluding, the contraposition between rule-based and statistical models reflects in some way the binarism of the Chomsky paradigms competence and execution. Maybe, thanks to computational linguistics, we will be able to define the distinction or the union between the two.</p>
+<p> </p>
+<h4 id="bibliography">Bibliography</h4>
+<p>Chomsky, N. (1957). Syntactic Structures.</p>
+<p>De Mauro, T. (2000). Dizionario della lingua italiana. Milano: Paravia.</p>
+<p>Guasti, M. T. (2007). L&rsquo;acquisizione del linguaggio, un&rsquo;introduzione. Raffaello Cortina</p>
+<p>Och, F. (2006, April 28). <a href="https://research.googleblog.com/2006/04/statistical-machine-translation-live.html">Statistical machine translation live</a></p>
+<p>Turovsky, B. (2016, November 15). Found in translation: More accurate, fluent sentences in Google Translate.</p>
 <hr>
 <p>The paper was written for the course <a href="https://www.unive.it/data/insegnamento/263417/programma">&ldquo;Applied Linguistics&rdquo;</a> in my Language, Civilisation and the Science of Language Bachelor at Ca&rsquo; Foscari University of Venice.</p>
 <p>View paper ITALIAN: <a href="/docs/IntroCL.pdf">pdf</a></p>
@@ -265,8 +296,9 @@ View paper ITALIAN: pdf"/>
 
 
     
-    
-    <script src="/js/vendor_no_gallery.min.js" async=""></script>
+    <link crossorigin="anonymous" integrity="sha384-yziQACfvCVwLqVFLqkWBYRO3XeA4EqzfXKGwaWnenYn5XzqfJFlFdKEmvutIQdKb" href="https://lib.baomitu.com/lightgallery/1.6.12/css/lightgallery.min.css" rel="stylesheet">
+      
+     <script src="/js/vendor_gallery.min.js" async="" ></script>
     
   
 
