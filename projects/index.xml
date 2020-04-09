@@ -6,10 +6,20 @@
     <description>Recent content in Projects on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2020 01:11:42 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 16:13:07 +0200</lastBuildDate>
     
 	<atom:link href="https://sarabert96.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Damning a machine&#39;s soul</title>
+      <link>https://sarabert96.github.io/projects/punishing/</link>
+      <pubDate>Thu, 09 Apr 2020 16:13:07 +0200</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/punishing/</guid>
+      <description>In the following essay I will reflect on how to mete punishment on &amp;ldquo;criminal&amp;rdquo; autonomous agents.
+Punishing the unpunishable Punishment can have multiple goals. One is to aware that an error has been made. In this case, the role is educational: the subject learn something previously unknown. On the other side, there exist occasions in which we already have consciousness of a bad behaviour. In these situations, the goal is to inhbit the desire of doing something wrong.</description>
+    </item>
     
     <item>
       <title>I created a website!</title>
@@ -17,7 +27,7 @@
       <pubDate>Wed, 11 Mar 2020 01:11:42 +0100</pubDate>
       
       <guid>https://sarabert96.github.io/projects/website/</guid>
-      <description>At the beginning of 2020, the CoronaVirus pandemia created a state of fear and illness all over the world. In Italy, the government decided to set a quarantine for the whole population trying to limitate the spread of the virus. That&amp;rsquo;s how I ended up with free time I didn&amp;rsquo;t imagine to have and no possibility to go out of my home. I started to wonder&amp;hellip;what if I did a website?</description>
+      <description>At the beginning of 2020, the CoronaVirus pandemia created a state of fear and illness all over the world. The national governments decided to set a lockdown for the whole population trying to limitate the spread of the virus. That&amp;rsquo;s how I ended up with free time I didn&amp;rsquo;t imagine to have and no possibility to go out of my home. I started to wonder&amp;hellip;what if I did a website? My website?</description>
     </item>
     
     <item>
