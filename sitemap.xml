@@ -2,7 +2,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://sarabert96.github.io/categories/</loc>
+      
+      <lastmod>2020-04-09T16:13:07+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://sarabert96.github.io/projects/punishing/</loc>
+      
+      <lastmod>2020-04-09T16:13:07+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sarabert96.github.io/categories/ethics/</loc>
       
       <lastmod>2020-04-09T16:13:07+02:00</lastmod>
       
@@ -86,6 +114,20 @@
     </url>
   
     <url>
+      <loc>https://sarabert96.github.io/categories/it/</loc>
+      
+      <lastmod>2020-03-11T01:11:42+01:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://sarabert96.github.io/about/</loc>
       
       <lastmod>2020-03-11T01:06:52+01:00</lastmod>
@@ -142,6 +184,20 @@
     </url>
   
     <url>
+      <loc>https://sarabert96.github.io/categories/linguistics/</loc>
+      
+      <lastmod>2018-06-11T01:11:42+01:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://sarabert96.github.io/projects/nullsubjectpt/</loc>
       
       <lastmod>2018-06-11T01:11:42+01:00</lastmod>
@@ -159,18 +215,6 @@
       <loc>https://sarabert96.github.io/projects/introductioncl/</loc>
       
       <lastmod>2018-01-13T00:37:20+01:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sarabert96.github.io/categories/</loc>
       
       
       <changefreq>monthly</changefreq>

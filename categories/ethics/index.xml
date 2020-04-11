@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics on Home</title>
+    <link>https://sarabert96.github.io/categories/ethics/</link>
+    <description>Recent content in Ethics on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Apr 2020 16:13:07 +0200</lastBuildDate>
+    
+	<atom:link href="https://sarabert96.github.io/categories/ethics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Damning a machine&#39;s soul</title>
+      <link>https://sarabert96.github.io/projects/punishing/</link>
+      <pubDate>Thu, 09 Apr 2020 16:13:07 +0200</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/punishing/</guid>
+      <description>In the following essay I will reflect on how to mete punishment on &amp;ldquo;criminal&amp;rdquo; autonomous agents.
+Punishing the unpunishable Punishment can have multiple goals. One is to aware that an error has been made. In this case, the role is educational: the subject learn something previously unknown. On the other side, there exist occasions in which we already have consciousness of a bad behaviour. In these situations, the goal is to inhbit the desire of doing something wrong.</description>
+    </item>
+    
+  </channel>
+</rss>

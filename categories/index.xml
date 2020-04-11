@@ -6,9 +6,37 @@
     <description>Recent content in Categories on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 09 Apr 2020 16:13:07 +0200</lastBuildDate>
     
 	<atom:link href="https://sarabert96.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ethics</title>
+      <link>https://sarabert96.github.io/categories/ethics/</link>
+      <pubDate>Thu, 09 Apr 2020 16:13:07 +0200</pubDate>
+      
+      <guid>https://sarabert96.github.io/categories/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT</title>
+      <link>https://sarabert96.github.io/categories/it/</link>
+      <pubDate>Wed, 11 Mar 2020 01:11:42 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/categories/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguistics</title>
+      <link>https://sarabert96.github.io/categories/linguistics/</link>
+      <pubDate>Mon, 11 Jun 2018 01:11:42 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/categories/linguistics/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

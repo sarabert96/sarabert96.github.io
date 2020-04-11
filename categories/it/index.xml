@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT on Home</title>
+    <link>https://sarabert96.github.io/categories/it/</link>
+    <description>Recent content in IT on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Mar 2020 01:11:42 +0100</lastBuildDate>
+    
+	<atom:link href="https://sarabert96.github.io/categories/it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I created a website!</title>
+      <link>https://sarabert96.github.io/projects/website/</link>
+      <pubDate>Wed, 11 Mar 2020 01:11:42 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/website/</guid>
+      <description>At the beginning of 2020, the CoronaVirus pandemia created a state of fear and illness all over the world. The national governments decided to set a lockdown for the whole population trying to limitate the spread of the virus. That&amp;rsquo;s how I ended up with free time I didn&amp;rsquo;t imagine to have and no possibility to go out of my home. I started to wonder&amp;hellip;what if I did a website? My website?</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization applied to humanities</title>
+      <link>https://sarabert96.github.io/projects/datavisualization/</link>
+      <pubDate>Thu, 13 Feb 2020 00:37:20 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/datavisualization/</guid>
+      <description>I took inspiration from Matteo Bonera&amp;rsquo;s speech regarding Data Visualization as a way to access Da Vinci&amp;rsquo;s work &amp;ldquo;Codice Atlantico&amp;rdquo; (website here), to examine how Data Visualization is widely used nowadays and how it can be used in non-mathematic fields.
+In the age of digitisation, data has become copious and cheap; but the big companies that have a lot of data are the new economical giants. Why is that? Data, if managed, become information, and information is richness since knowing that, future can change.</description>
+    </item>
+    
+    <item>
+      <title>Data Mining project: Carvana</title>
+      <link>https://sarabert96.github.io/projects/datamining/</link>
+      <pubDate>Mon, 13 Jan 2020 00:37:20 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/datamining/</guid>
+      <description>The project, codeveloped with Valerio Bonsignori and Federica Currao, is the product of Data Mining course at University of Pisa.
+The data under investigation come from Carvana&amp;rsquo;s resale&amp;rsquo;s cars process and describe the characteristics of each vehicle bought at auction by the dealer. The goal is to predict whether the car purchased is or not a bad buy to decrease Carvana&amp;rsquo;s loss. This last information is directly defined with a binary feature in the training dataset and therefore it&amp;rsquo;s part of the process evaluate and understand which features are the most discriminating in the choice.</description>
+    </item>
+    
+    <item>
+      <title>TED Talk Analysis</title>
+      <link>https://sarabert96.github.io/projects/tedtalk/</link>
+      <pubDate>Fri, 13 Dec 2019 00:37:20 +0100</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/tedtalk/</guid>
+      <description>The project was developed with Pouria Faraji, Selam Mulatu and Thizirie Ould Amer.
+It regards the analysis of two TED Talks datasets, aiming to detect the characteristics of the most popular talks to produce a recommendation system. To do this, we created a model capable of predicting video popularity prior to its publication, helping us understand what factors contribute to its success. The main dataset contains general details about the talks and the speakers, while the second one consists of the transcripts of the talks.</description>
+    </item>
+    
+  </channel>
+</rss>
