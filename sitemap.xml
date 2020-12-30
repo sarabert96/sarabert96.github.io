@@ -4,7 +4,49 @@
     <url>
       <loc>https://sarabert96.github.io/categories/</loc>
       
-      <lastmod>2020-04-09T16:13:07+02:00</lastmod>
+      <lastmod>2020-07-30T21:05:14+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sarabert96.github.io/categories/computer-science/</loc>
+      
+      <lastmod>2020-07-30T21:05:14+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sarabert96.github.io/projects/</loc>
+      
+      <lastmod>2020-07-30T21:05:14+02:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sarabert96.github.io/projects/sna/</loc>
+      
+      <lastmod>2020-07-30T21:05:14+02:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -31,20 +73,6 @@
   
     <url>
       <loc>https://sarabert96.github.io/categories/ethics/</loc>
-      
-      <lastmod>2020-04-09T16:13:07+02:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sarabert96.github.io/projects/</loc>
       
       <lastmod>2020-04-09T16:13:07+02:00</lastmod>
       
@@ -89,20 +117,6 @@
       <loc>https://sarabert96.github.io/thanks/</loc>
       
       <lastmod>2020-03-14T01:54:03+01:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://sarabert96.github.io/categories/computer-science/</loc>
-      
-      <lastmod>2020-03-11T01:11:42+01:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
