@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>SNA</title>
+      <title>Google Trending Keywords Network</title>
       <link>https://sarabert96.github.io/projects/sna/</link>
       <pubDate>Thu, 30 Jul 2020 21:05:14 +0200</pubDate>
       
       <guid>https://sarabert96.github.io/projects/sna/</guid>
       <description>The project was developed with Pouria Faraji and Chiara Spampinato for the Social Network Analysis course at University of Pisa.
- The goal of the project is to use graph theory to study the structure of relations between semantically proximate words obtained by Google Trends top keywords of 2019.
+The goal of the project is to use graph theory to study the structure of relations between semantically proximate words obtained by Google Trends top keywords of 2019.
 In contrast to ordinary networks, in our graph each node represents a word, shaping a semantic network. The network is a directed and unweighted graph, containing 18002 nodes and 70639 edges.</description>
     </item>
     
