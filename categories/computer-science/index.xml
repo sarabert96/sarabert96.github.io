@@ -23,6 +23,16 @@ In contrast to ordinary networks, in our graph each node represents a word, shap
     </item>
     
     <item>
+      <title>Twitter Sentiment Extraction</title>
+      <link>https://sarabert96.github.io/projects/hlt/</link>
+      <pubDate>Thu, 30 Jul 2020 21:05:14 +0200</pubDate>
+      
+      <guid>https://sarabert96.github.io/projects/hlt/</guid>
+      <description>The project was developed with Pouria Faraji and Niloofar Yousefi for the &amp;ldquo;Human Language Technologies&amp;rdquo; course at University of Pisa.
+Classical sentiment analysis tasks aim to label a sentence as positive or negative. The project goes one step further trying to identify which parts of the sentence (that in our case are tweets) contribute in labeling it as neutral, positive or negative. To perform this job, we used a model composed of three layers.</description>
+    </item>
+    
+    <item>
       <title>I created a website!</title>
       <link>https://sarabert96.github.io/projects/website/</link>
       <pubDate>Wed, 11 Mar 2020 01:11:42 +0100</pubDate>
