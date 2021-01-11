@@ -170,7 +170,21 @@
     </url>
   
     <url>
-      <loc>https://sarabert96.github.io/about/</loc>
+      <loc>https://sarabert96.github.io/bio/</loc>
+      
+      <lastmod>2020-03-11T01:06:52+01:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://sarabert96.github.io/what/</loc>
       
       <lastmod>2020-03-11T01:06:52+01:00</lastmod>
       
